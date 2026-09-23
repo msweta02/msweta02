@@ -1,7 +1,7 @@
 # Hi, I'm Mary Sweta Kerketta 👋
 
 **Data Engineer | Analytics Engineer**
-📍 Boston, MA · 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · 📊 [Tableau Public](https://public.tableau.com/app/profile/YOUR-PROFILE)
+📍 Boston, MA · 🔗 [LinkedIn](https://www.linkedin.com/in/marysweta/) · 📊 [Tableau Public](https://public.tableau.com/app/profile/mary.sweta.kerketta/vizzes)
 
 Data engineer with 10+ years building scalable data pipelines and enterprise data platforms in financial services. I migrated an enterprise FX data warehouse from on-prem Hadoop to AWS, re-platformed orchestration to Apache Airflow, and cut a core reporting pipeline from 8 hours to ~3. Snowflake (SnowPro) and Airflow certified. Currently sharpening analytics engineering skills (dbt, Snowflake, Tableau) through hands-on projects while completing my MPS in Informatics at Northeastern.
 
@@ -67,4 +67,4 @@ Traced why a $2.3M business was barely profitable — engineered margin, loss-fl
 ---
 
 ### 📫 Let's connect
-Open to Data Engineering / Analytics Engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or via email.
+Open to Data Engineering / Analytics Engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/marysweta/) or via email.
