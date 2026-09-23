@@ -9,41 +9,21 @@ Data engineer with 10+ years building scalable data pipelines and enterprise dat
 
 ### 🛠️ Skills
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+**Languages:** `Python` `SQL` `PL/SQL` `Shell Scripting` `Java` `R`
 
-**Data Engineering & ELT**
-![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+**Data Engineering & ELT:** `dbt` `ETL/ELT Development` `Data Modeling` `Data Warehousing` `Pipeline Development` `Batch & Streaming Pipelines` `Data Quality & Validation` `Data Migration`
 
-**Cloud & Warehousing**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+**Cloud & Warehousing:** `AWS (S3, EKS, EMR, Glue, Athena, Redshift, CloudWatch, ECR, Secrets Manager)` `Snowflake` `Data Lake Architecture` `Cloud-Native Development`
 
-**DevOps & CI/CD**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Big Data:** `Apache Spark` `Hadoop/HDFS` `Hive` `Kafka` `RabbitMQ`
 
-**Databases**
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+**Orchestration & Automation:** `Apache Airflow` `Control-M` `Workflow Automation` `Job Scheduling`
 
-**BI & Ways of Working**
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+**DevOps & CI/CD:** `Docker` `Kubernetes` `Terraform` `Jenkins` `Git` `Bitbucket` `Linux`
+
+**Databases:** `Oracle` `SQL Server` `MySQL` `PostgreSQL`
+
+**BI & Ways of Working:** `Tableau` `REST API Development` `Agile/Scrum` `Jira` `Code Reviews` `Stakeholder Collaboration`
 
 ---
 
@@ -67,4 +47,4 @@ Traced why a $2.3M business was barely profitable — engineered margin, loss-fl
 ---
 
 ### 📫 Let's connect
-Open to Data Engineering / Analytics Engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/marysweta/) or via email.
+Open to Data Engineering / Analytics Engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or via email.
