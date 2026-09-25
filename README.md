@@ -7,6 +7,16 @@ Data engineer with 10+ years building scalable data pipelines and enterprise dat
 
 ---
 
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[de-throughline](https://github.com/msweta02/de-throughline)** | Follow one record through an Airflow DAG and see what each task did to it — a lineage/observability plugin with an in-process FastAPI UI and replay isolation, tested via CI across Python 3.11–3.13. | `Python` `Apache Airflow 3.1 (Astro Runtime)` `DuckDB` `FastAPI` `Jinja2` `Docker` `pytest` `ruff` `GitHub Actions` |
+| **[ae-cfpb-complaint-benchmarking](https://github.com/msweta02/ae-cfpb-complaint-benchmarking)** | End-to-end dbt/Snowflake ELT pipeline on 16.9M CFPB records, delivered as a size-neutral Tableau dashboard benchmarking 10 major U.S. banks. | `Snowflake` `dbt` `Tableau` `Python` |
+| **[viz-superstore-profitability](https://github.com/msweta02/viz-superstore-profitability)** | Traced a ~20% discount threshold driving negative margins in a $2.3M business and published an interactive Tableau dashboard with targeted fixes. | `Python` `pandas` `NumPy` `Tableau` |
+
+---
+
 ### 🛠️ Skills
 
 **Languages:** `Python` `SQL` `PL/SQL` `Shell Scripting` `Java` `R`
@@ -27,18 +37,6 @@ Data engineer with 10+ years building scalable data pipelines and enterprise dat
 
 ---
 
-### 🚀 Featured Projects
-
-**[CFPB Consumer Complaint Benchmarking](https://github.com/msweta02/ae-cfpb-complaint-benchmarking)**
-End-to-end ELT pipeline on 16.9M CFPB complaint records (8.5 GB) — modeled in dbt through raw → staging → intermediate → mart layers with schema tests and lineage docs, loaded and profiled in Snowflake, and delivered as a size-neutral Tableau dashboard benchmarking 10 major U.S. banks.
-`Snowflake` `dbt` `Tableau` `Python`
-
-**[Superstore Profitability Analysis](https://github.com/msweta02/viz-superstore-profitability)**
-Traced why a $2.3M business was barely profitable — engineered margin, loss-flag, and discount-band features, pinpointed a ~20% discount threshold driving negative margins, and published an interactive Tableau dashboard with targeted recommendations.
-`Python` `pandas` `NumPy` `Tableau`
-
----
-
 ### 📜 Certifications
 - AWS Certified Cloud Practitioner
 - SnowPro Associate: Platform Certification
@@ -47,4 +45,4 @@ Traced why a $2.3M business was barely profitable — engineered margin, loss-fl
 ---
 
 ### 📫 Let's connect
-Open to Data Engineering / Analytics Engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) or via email.
+Open to Data Engineering / Analytics Engineering roles. Reach me on [LinkedIn](https://www.linkedin.com/in/marysweta/) or via email.
