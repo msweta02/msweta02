@@ -1,6 +1,4 @@
-# Hi, I'm Mary Sweta Kerketta 👋
-
-![Visitor count](https://komarev.com/ghpvc/?username=msweta02&style=flat-square&label=You%20are%20visitor)
+# Hi, I'm Mary Sweta Kerketta 👋  ![Visitor count](https://komarev.com/ghpvc/?username=msweta02&style=flat-square&label=You%20are%20visitor)
 
 **Data Engineer | Analytics Engineer**
 📍 Boston, MA · 🔗 [LinkedIn](https://www.linkedin.com/in/marysweta/) · 📊 [Tableau Public](https://public.tableau.com/app/profile/mary.sweta.kerketta/vizzes)
